@@ -1,0 +1,1 @@
+Imagen del Projecto: [(./src/assets/image.png)]
