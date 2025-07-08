@@ -1,1 +1,1 @@
-Imagen del Projecto: [(./src/assets/image.png)]
+![Imagen](./src/assets/image.png)
